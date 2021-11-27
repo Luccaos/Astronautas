@@ -1,1 +1,2 @@
-"# Astronautas2" 
+Author: Lucca Borges Gutierrez
+Contact: luccaborges@protonmail.com
